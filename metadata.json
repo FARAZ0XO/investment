@@ -1,0 +1,6 @@
+{
+  "name": "ARISH PROPERTY CONSULTANTS",
+  "description": "Modern real estate investment advisory in Karachi featuring verified property listings, an interactive ROI calculator, booking scheduler, WhatsApp support, and a secure client portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

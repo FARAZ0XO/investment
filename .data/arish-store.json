@@ -1,0 +1,118 @@
+{
+  "bookings": [
+    {
+      "fullName": "Tariq Mehmood",
+      "phone": "03075522866",
+      "email": "tariq.mehmood@karachicapital.pk",
+      "propertyId": "prop-pechs-exec-suite",
+      "preferredDate": "2026-12-05",
+      "visitType": "site-visit",
+      "notes": "",
+      "id": "APC-BK-8867",
+      "createdAt": "2026-11-19T10:52:29.155Z",
+      "status": "Confirmed"
+    },
+    {
+      "id": "APC-BK-1042",
+      "fullName": "Tariq Mehmood Siddiqui",
+      "phone": "03008214490",
+      "email": "tariq.mehmood@karachicapital.pk",
+      "propertyId": "prop-fortune-corridor-floor",
+      "preferredDate": "2026-11-26",
+      "visitType": "office-consultation",
+      "notes": "Reviewing Q1 corporate floor acquisition terms at Fortune Towers.",
+      "createdAt": "2026-11-12T09:30:00.000Z",
+      "status": "Confirmed"
+    }
+  ],
+  "inquiries": [],
+  "users": [
+    {
+      "id": "usr-tariq-01",
+      "fullName": "Tariq Mehmood Siddiqui",
+      "email": "tariq.mehmood@karachicapital.pk",
+      "phone": "03008214490",
+      "clientCode": "APC-INV-2041",
+      "passwordHash": "40e57f71224f94a5d02ed3b9741ebe54:6ea830a275e34c5590047ad3e8e2d4787e350848b610e85d40bd01ed697dfa75",
+      "portfolio": {
+        "totalInvestedPkr": 98500000,
+        "currentValuationPkr": 121400000,
+        "unrealizedGainPercent": 23.2,
+        "annualRentalIncomePkr": 4760000,
+        "holdings": [
+          {
+            "holdingId": "HLD-101",
+            "propertyTitle": "Shahrah-e-Faisal Executive Corporate Suite",
+            "location": "Block-6 PECHS, Karachi",
+            "unitRef": "Suite 604 · 1,850 Sq. Ft.",
+            "acquiredDate": "2025-02-14",
+            "purchasePricePkr": 42500000,
+            "currentValuePkr": 51200000,
+            "paidPercent": 85,
+            "status": "Leased · Active Cash Flow"
+          },
+          {
+            "holdingId": "HLD-102",
+            "propertyTitle": "Clifton Block 4 Sea-View Sky Penthouse",
+            "location": "Block 4, Clifton, Karachi",
+            "unitRef": "Level 19 · Unit B",
+            "acquiredDate": "2025-11-03",
+            "purchasePricePkr": 56000000,
+            "currentValuePkr": 70200000,
+            "paidPercent": 60,
+            "status": "Under Construction · On Schedule"
+          }
+        ],
+        "installments": [
+          {
+            "installmentId": "INS-901",
+            "propertyTitle": "Clifton Block 4 Sea-View Sky Penthouse",
+            "dueDate": "2026-10-15",
+            "amountPkr": 3500000,
+            "status": "Paid"
+          },
+          {
+            "installmentId": "INS-902",
+            "propertyTitle": "Shahrah-e-Faisal Executive Corporate Suite",
+            "dueDate": "2026-12-01",
+            "amountPkr": 2125000,
+            "status": "Upcoming"
+          },
+          {
+            "installmentId": "INS-903",
+            "propertyTitle": "Clifton Block 4 Sea-View Sky Penthouse",
+            "dueDate": "2027-01-15",
+            "amountPkr": 3500000,
+            "status": "Scheduled"
+          }
+        ],
+        "documents": [
+          {
+            "docId": "DOC-SBCA-604",
+            "title": "SBCA Commercial Lease & Floor Allotment Certificate",
+            "category": "Title Verification",
+            "issuedDate": "2025-02-18",
+            "verificationHash": "SBCA-KHI-88412-PECHS",
+            "summaryText": "ARISH PROPERTY CONSULTANTS — VERIFIED TITLE SUMMARY\nDocument: SBCA Commercial Lease & Floor Allotment Certificate\nClient: Tariq Mehmood Siddiqui (APC-INV-2041)\nAsset: Suite 604, Block-6 PECHS, Main Shahrah-e-Faisal, Karachi\nVerification Ref: SBCA-KHI-88412-PECHS\nAdvisory Office: Suite No. 302, 3rd Floor, Fortune Towers, Main Shahrah-e-Faisal, Block-6 PECHS, Karachi\nDirect Line: 03075522866\nStatus: Verified Clear & Encumbrance-Free"
+          },
+          {
+            "docId": "DOC-VAL-2026Q4",
+            "title": "Q4 2026 Independent Asset Valuation & Rental Ledger",
+            "category": "Portfolio Audit",
+            "issuedDate": "2026-11-01",
+            "verificationHash": "APC-VAL-2026-2041",
+            "summaryText": "ARISH PROPERTY CONSULTANTS — PORTFOLIO VALUATION STATEMENT\nClient: Tariq Mehmood Siddiqui (APC-INV-2041)\nTotal Invested Capital: PKR 98,500,000\nCurrent Appraised Value: PKR 121,400,000 (+23.2%)\nAnnualized Rental Yield: PKR 4,760,000\nAdvisory Office: Suite No. 302, 3rd Floor, Fortune Towers, Main Shahrah-e-Faisal, Block-6 PECHS, Karachi\nDirect Line: 03075522866"
+          },
+          {
+            "docId": "DOC-DHA-TAX",
+            "title": "FBR Section 236C / 236K Withholding Tax Receipt",
+            "category": "Tax & Compliance",
+            "issuedDate": "2026-06-22",
+            "verificationHash": "FBR-CPR-993014",
+            "summaryText": "ARISH PROPERTY CONSULTANTS — TAX COMPLIANCE RECORD\nCPR Ref: FBR-CPR-993014\nTaxpayer: Tariq Mehmood Siddiqui\nJurisdiction: Karachi Regional Tax Office\nAdvisory Contact: 03075522866"
+          }
+        ]
+      }
+    }
+  ]
+}
